@@ -1,1 +1,1 @@
-[Welcome to Introductory to AI & Machine Learning](/pages/websites.md)
+[Welcome to Introductory to AI & Machine Learning](/websites.md)
