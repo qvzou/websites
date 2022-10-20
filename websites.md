@@ -38,17 +38,7 @@
 </form>
 </form>
 
-  <script src="script.js"></script>
-
-
- <!--
-  This script places a badge on your repl's full-browser view back to your repl's cover
-  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
-  teal, blue, blurple, magenta, pink! 
-Collaborators: Vanessa Zou (Qianhui) and Alana Robinson
-  -->
-
-</body>
+ 
 
 </html>
 
